@@ -7,8 +7,13 @@ A simple Black Jack game
 3. 更複雜的規則：
 
 －撲克牌1可視情況作為10或1
+
+
 －如果拿到兩張等同10的牌，可以選擇是否分開，變成分開要牌
+
+
 －如果莊家顯示的牌是一張1，問玩家是不是要花錢買保險，可以少賠一半
+
 
 https://games.washingtonpost.com/games/blackjack
 
